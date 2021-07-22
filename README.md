@@ -1,6 +1,6 @@
 # FileDownloadServer
 
-一个可以查看文件传输进度的Web项目
+一个可以在服务端查看文件传输进度的Web项目
 
 ### 0x01 使用
 
